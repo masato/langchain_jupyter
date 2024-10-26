@@ -7861,13 +7861,13 @@ files = [
 
 [[package]]
 name = "taskipy"
-version = "1.13.0"
+version = "1.14.0"
 description = "tasks runner for python projects"
 optional = false
 python-versions = "<4.0,>=3.6"
 files = [
-    {file = "taskipy-1.13.0-py3-none-any.whl", hash = "sha256:56f42b7e508d9aed2c7b6365f8d3dab62dbd0c768c1ab606c819da4fc38421f7"},
-    {file = "taskipy-1.13.0.tar.gz", hash = "sha256:2b52f0257958fed151f1340f7de93fcf0848f7a358ad62ba05c31c2ca04f89fe"},
+    {file = "taskipy-1.14.0-py3-none-any.whl", hash = "sha256:29040d9a8038170602feb71792bdef5203720ed30f595304aee843625892452b"},
+    {file = "taskipy-1.14.0.tar.gz", hash = "sha256:5d9631c29980481d59858f0a100ed3200cf7468ca8c0540ef19388586485532d"},
 ]
 
 [package.dependencies]
@@ -9292,4 +9292,4 @@ type = ["pytest-mypy"]
 [metadata]
 lock-version = "2.0"
 python-versions = "3.11.7"
-content-hash = "724c5607fefb5ae49bfba1a197f9cf804fab8d86bc16e29bf8a5b02c93527a42"
+content-hash = "360a54bf292cccfa4ca72b544061f5de368b56a058fe1bcc3dde751a322cfbd9"
