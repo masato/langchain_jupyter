@@ -8515,13 +8515,13 @@ files = [
 
 [[package]]
 name = "unstructured"
-version = "0.16.3"
+version = "0.16.4"
 description = "A library that prepares raw documents for downstream ML tasks."
 optional = false
 python-versions = "<3.13,>=3.9.0"
 files = [
-    {file = "unstructured-0.16.3-py3-none-any.whl", hash = "sha256:e0e3b56531b44e62154d17cbfdae7fd7fa1d795b7cf510fb654c6714d4257655"},
-    {file = "unstructured-0.16.3.tar.gz", hash = "sha256:f9528636773c910a53c8a34e32d4733ea54b79cbd507d0e956e299ab1da3003f"},
+    {file = "unstructured-0.16.4-py3-none-any.whl", hash = "sha256:300e4a9e630c6d55484a62e90df23075e5abd04f17bf15043898bc0eff6c4070"},
+    {file = "unstructured-0.16.4.tar.gz", hash = "sha256:da05433db186f8251fc0b1b1b273f584ca2a71363d541ec1ab82ef55dc49055d"},
 ]
 
 [package.dependencies]
@@ -9285,4 +9285,4 @@ type = ["pytest-mypy"]
 [metadata]
 lock-version = "2.0"
 python-versions = "3.11.7"
-content-hash = "e3f74f6aaa26bc30877672dd3f86b3b19e4e4d859c06d7722e0b395ad0a76f77"
+content-hash = "423f91041de5f8bcacd996b5574bb0a0471b5033936d77d92c5da6034eb41cbc"
