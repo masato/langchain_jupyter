@@ -906,13 +906,13 @@ numpy = "*"
 
 [[package]]
 name = "chromadb"
-version = "0.6.1"
+version = "0.6.2"
 description = "Chroma."
 optional = false
 python-versions = ">=3.9"
 files = [
-    {file = "chromadb-0.6.1-py3-none-any.whl", hash = "sha256:3483ea9e1271b647f3696e1f39ee9e464bb23a6a9913f42c57a84657c34467bb"},
-    {file = "chromadb-0.6.1.tar.gz", hash = "sha256:af55d143fd887f344ff05cd40560566dda1dd13e90ec5a13fb0f5278eb8cde75"},
+    {file = "chromadb-0.6.2-py3-none-any.whl", hash = "sha256:77a5e07097e36cdd49d8d2925d0c4d28291cabc9677787423d2cc7c426e8895b"},
+    {file = "chromadb-0.6.2.tar.gz", hash = "sha256:e9e11f04d3850796711ee05dad4e918c75ec7b62ab9cbe7b4588b68a26aaea06"},
 ]
 
 [package.dependencies]
@@ -9078,4 +9078,4 @@ type = ["pytest-mypy"]
 [metadata]
 lock-version = "2.0"
 python-versions = "3.11.7"
-content-hash = "6fad7142268886270441c177720d902fd74b646fda411152e035a2521f8a8fe7"
+content-hash = "940c90dc895f0f4e2abb21060a5b16c1a2e04ee0354b36d40d757a8bea81cd6a"
