@@ -4615,13 +4615,13 @@ sympy = "*"
 
 [[package]]
 name = "openai"
-version = "1.59.9"
+version = "1.60.2"
 description = "The official Python library for the openai API"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "openai-1.59.9-py3-none-any.whl", hash = "sha256:61a0608a1313c08ddf92fe793b6dbd1630675a1fe3866b2f96447ce30050c448"},
-    {file = "openai-1.59.9.tar.gz", hash = "sha256:ec1a20b0351b4c3e65c6292db71d8233515437c6065efd4fd50edeb55df5f5d2"},
+    {file = "openai-1.60.2-py3-none-any.whl", hash = "sha256:993bd11b96900b9098179c728026f016b4982ded7ee30dfcf4555eab1171fff9"},
+    {file = "openai-1.60.2.tar.gz", hash = "sha256:a8f843e10f2855713007f491d96afb2694b11b5e02cb97c7d01a0be60bc5bb51"},
 ]
 
 [package.dependencies]
@@ -9021,4 +9021,4 @@ type = ["pytest-mypy"]
 [metadata]
 lock-version = "2.0"
 python-versions = "3.11.7"
-content-hash = "49a66fd3e4fcdfdb84f4365f547e728edbdc8b5773333bc29442426e27e9994b"
+content-hash = "0dc37ad9edade54fb5de9c7c5fdc000138d55b1768fc4aa8a82c0eb2433f7c13"
