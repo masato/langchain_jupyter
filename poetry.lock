@@ -4194,17 +4194,6 @@ docs = ["myst-parser", "pydata-sphinx-theme", "sphinx", "sphinxcontrib-github-al
 test = ["pep440", "pre-commit", "pytest", "testpath"]
 
 [[package]]
-name = "ndjson"
-version = "0.3.1"
-description = "JsonDecoder for ndjson"
-optional = false
-python-versions = "*"
-files = [
-    {file = "ndjson-0.3.1-py2.py3-none-any.whl", hash = "sha256:839c22275e6baa3040077b83c005ac24199b94973309a8a1809be962c753a410"},
-    {file = "ndjson-0.3.1.tar.gz", hash = "sha256:bf9746cb6bb1cb53d172cda7f154c07c786d665ff28341e4e689b796b229e5d6"},
-]
-
-[[package]]
 name = "nest-asyncio"
 version = "1.6.0"
 description = "Patch asyncio to allow nested event loops"
@@ -8246,13 +8235,13 @@ files = [
 
 [[package]]
 name = "unstructured"
-version = "0.16.15"
+version = "0.16.17"
 description = "A library that prepares raw documents for downstream ML tasks."
 optional = false
 python-versions = "<3.13,>=3.9.0"
 files = [
-    {file = "unstructured-0.16.15-py3-none-any.whl", hash = "sha256:5b0931eb92fb858b983fada18111efdf9c2a0c861ef8e9b58c4e05b1daa50e35"},
-    {file = "unstructured-0.16.15.tar.gz", hash = "sha256:18fb850d47b5a2a6ea45b2f7e0eda687f903a2f2e58909b1defd48e2b3126ff4"},
+    {file = "unstructured-0.16.17-py3-none-any.whl", hash = "sha256:9b55bf47ac6532f16e6ef27f5b823e037ab860f07d377784b9dc43a99a981268"},
+    {file = "unstructured-0.16.17.tar.gz", hash = "sha256:590700ed344ed27a6dce8b3ffdeec2c427bd4f057d9bcb470f8ce828cc20b314"},
 ]
 
 [package.dependencies]
@@ -8268,7 +8257,6 @@ html5lib = "*"
 langdetect = "*"
 lxml = "*"
 markdown = {version = "*", optional = true, markers = "extra == \"local-inference\""}
-ndjson = "*"
 networkx = {version = "*", optional = true, markers = "extra == \"local-inference\""}
 nltk = "*"
 numpy = "<2"
@@ -9021,4 +9009,4 @@ type = ["pytest-mypy"]
 [metadata]
 lock-version = "2.0"
 python-versions = "3.11.7"
-content-hash = "482c01686c4396e671b4660d5a86219cd1b1cc686e7b2ce917df46a12b28711c"
+content-hash = "b6746ac90e28c4ee3dcbe81205452035d3f989b02040e67e6d2ffb04cc41293e"
